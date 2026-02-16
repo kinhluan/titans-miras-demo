@@ -4,4 +4,4 @@ __pycache__/
 *.egg-info/
 dist/
 .ipynb_checkpoints/
-figures/*.png
+# figures/*.png
